@@ -14,6 +14,8 @@ Allowing only the most recent write operation to be undone.
 Ensuring that all file operations, except for the undo functionality, behave similarly to the underlying RepyV2 API.
 Adhering to design paradigms of accuracy, efficiency, and security.
 
+Follow this link for detailed instructions: https://github.com/SeattleTestbed/docs/blob/master/EducationalAssignments/UndoPartOne.md
+
 **Part 2**
 
 Part two involves testing reference monitors designed for the Seattle testbed to ensure they are robust against potential attacks. As a tester, the goal is to assess the security layers by attempting various scenarios to circumvent them. These scenarios include writing and appending invalid data, with the aim of identifying any vulnerabilities in the security layers.
@@ -23,6 +25,8 @@ The project emphasizes three key design paradigms: **accuracy, efficiency, and s
 I created a series of test cases designed to evaluate the security layers thoroughly. Each test case focused on a specific scenario or functionality and was designed to test hypotheses related to security, performance, and accuracy.
 
 Through this project i gained practical experience in testing security layers and understanding security paradigms in a functional way. By identifying potential vulnerabilities and weaknesses in reference monitors, I contributed to strengthen the security of systems deployed on the Seattle testbed.
+
+Follow this link for detailed instructions: https://github.com/SeattleTestbed/docs/blob/master/EducationalAssignments/UndoPartTwo.md
 
 **Part 3**
 
@@ -54,3 +58,5 @@ I fixed it by removing the lock implementation in all the unnecessary places and
 write is happening.
 
 Overall, this project gave me hands-on experience in identifying and resolving security vulnerabilities in reference monitors, reinforcing concepts related to access control and security mechanisms.
+
+Follow this link for detailed instructions: https://github.com/SeattleTestbed/docs/blob/master/EducationalAssignments/UndoPartThree.md
